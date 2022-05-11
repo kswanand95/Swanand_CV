@@ -1,60 +1,43 @@
-<!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Swanand Khanapurkar
 
-<!-- The unordered list immediately after the h1 will be formatted on a single
-line. It is intended to be used for contact details -->
-- Official: <skhanap1@asu.edu>
-- Personal: <kswanand95@gmail.com>
-- (602) 475-6262
-- [kswanand95.github.io](http://kswanand95.github.io)
-- Tempe, USA and Nagpur, IN
+# CV of Swanand Khanapurkar
 
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
+## Profile
+
+- Official Email: <skhanap1@asu.edu>
+- Personal Email: <kswanand95@gmail.com>
+- Ph no: (602) 475-6262
+- Website: [kswanand95.github.io](http://kswanand95.github.io)
+- Location: Tempe, USA and Nagpur, IN
+
+
 Doctoral student in the department of Physics and the beyond center at Arizona State University, USA. 
 
-<!-- ## Experience 
-
-
-<!-- You have to wrap the "left" and "right" half of these headings in spans by
-hand -->
-### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
-
-Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.
-
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
-
-### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
-
-Global movement of free coding clubs for young people.
-
- - Awarded 'Teacher of the Month'
-
-## Projects
-
-### <span>Miss Direction</span> <span>Aug 2016</span>
-
-A mapping engine that misguides you:
-
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
-
 ## Education
+### Physics PhD
+Arizona State University (ASU) | 2019-ongoing | Tempe, AZ, USA    
+*Thesis supervisor: Prof Sara Imari Walker*
 
-### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
+### Bachlor and Master of Science (BS-MS) 
+Indian Institute of Science Education and Research (IISER) | 2013-2018 | Pune, MH, India  
+*Masters thesis: Einstein-Cartan-Dirac (ECD) Theory*  
+*Thesis supervisor: Prof TP Singh, Tata Institute of Fundamnetal Research (TIFR), Mumbai, India*
 
-  - GPA 4.0
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
+## Publications, Thesis, articles
+- Swanand Khanapurkar, Abhinav Varma, Nehal Mittal, Navya Gupta and T. P. Singh, Einstein-Cartan-Dirac equations in the Newman-Penrose formalism, Phys.Rev. D98 (2018) no.6, 064046.  
+DOI: https://doi.org/10.1103/PhysRevD.98.064046
+- Swanand Khanapurkar and T. P. Singh, A duality between curvature and torsion, Int. J. Mod. Phys, Vol. 27, No. 14, 1847008 (2018). DOI: https://doi.org/10.1142/S0218271818470089
+- Swanand Khanapurkar, Arnab Pradhan, Vedant Dhruv and T. P. Singh, Nonrelativistic limit of Einstein-Cartan-Dirac equation, Phys.Rev. D98 (2018) no.10,104027. DOI: https://doi.org/10.1103/PhysRevD.98.104027
 
-## Skills
+## Teaching experience
+- PHY122 | Classsical Machanics Lab | Fall 2019 (in-person), Summer 2020 (online)  
+- PHY101 | Introductory Physics lab | Spring 2020, Fall 2020, Fall 2021  
+- PHY131 | Classical Electrodynamics lab | Spring 2021 
 
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+
+## Workshops/ Conferences
+
+## Skills, Languages 
+- **Software, Programming languages:** Python *(networkx, MESA, pandas, PyInform, scikit-learn, scipy, numpy)*, Wolfram Mathematica, LaTex, netlogo, Zettlekasten platforms *(Obsidian and LogSeq)*, Venism, MS Office
+- Natural languages: Marathi (mother tongue), Hindi, English; fluent in all three.
+
+## Cocurricular, other experiences
