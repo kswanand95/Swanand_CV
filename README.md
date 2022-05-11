@@ -10,11 +10,11 @@
 - Location: Tempe, USA and Nagpur, IN
 
 
-Doctoral student in the department of Physics and the beyond center at Arizona State University, USA. 
+Doctoral student in the department of Physics and the beyond center at Arizona State University, USA. I am working in the [research group](emergence.asu.edu) of Prof Sara Walker on the broad topics realted to *physcis of life, physics of complex systems and evolution and collective computation in plants.* 
 
 ## Education
-### Physics PhD
-Arizona State University (ASU) | 2019-ongoing | Tempe, AZ, USA    
+### Physics PhD (ongoing)
+Arizona State University (ASU) | 2019-2025 (expected) | Tempe, AZ, USA    
 *Thesis supervisor: Prof Sara Imari Walker*
 
 ### Bachlor and Master of Science (BS-MS) 
@@ -23,10 +23,20 @@ Indian Institute of Science Education and Research (IISER) | 2013-2018 | Pune, M
 *Thesis supervisor: Prof TP Singh, Tata Institute of Fundamnetal Research (TIFR), Mumbai, India*
 
 ## Publications, Thesis, articles
+
+### Journal articles
 - Swanand Khanapurkar, Abhinav Varma, Nehal Mittal, Navya Gupta and T. P. Singh, Einstein-Cartan-Dirac equations in the Newman-Penrose formalism, Phys.Rev. D98 (2018) no.6, 064046.  
 DOI: https://doi.org/10.1103/PhysRevD.98.064046
 - Swanand Khanapurkar and T. P. Singh, A duality between curvature and torsion, Int. J. Mod. Phys, Vol. 27, No. 14, 1847008 (2018). DOI: https://doi.org/10.1142/S0218271818470089
 - Swanand Khanapurkar, Arnab Pradhan, Vedant Dhruv and T. P. Singh, Nonrelativistic limit of Einstein-Cartan-Dirac equation, Phys.Rev. D98 (2018) no.10,104027. DOI: https://doi.org/10.1103/PhysRevD.98.104027
+
+### Thesis
+- Masters Thesis: The Einstein-Cartan-Dirac Theory  
+Link: https://arxiv.org/abs/1803.10621
+
+### Other articles
+- Swanand Khanapurkar, The Big Picture: A Physicist’s Perspective on Purpose, Lokmat Oxygen Oct 2019
+The original article can be accessed [here](https://nirman.mkcl.org/user/pages/doc/52_Swananad%20Khanapurkar.jpg). The English translation is [here](https://contact-nirman.medium.com/the-big-picture-a-physicists-perspective-on-purpose-2e5fd5c3e5a2)
 
 ## Teaching experience
 - PHY122 | Classsical Machanics Lab | Fall 2019 (in-person), Summer 2020 (online)  
