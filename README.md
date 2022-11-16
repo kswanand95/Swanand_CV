@@ -6,7 +6,7 @@
 - Official Email: <skhanap1@asu.edu>
 - Personal Email: <kswanand95@gmail.com>
 - Ph no: (602) 475-6262
-- Website: [kswanand95.github.io](http://kswanand95.github.io)
+- Website: [kswanand95.me](http://kswanand95.me)
 - Location: Tempe, USA and Nagpur, IN
 
 
@@ -47,14 +47,14 @@ The original article can be accessed [here](https://nirman.mkcl.org/user/pages/d
 ## Workshops/ Conferences
 - Presented a talk titled *Uncovering the operating system of trees using the approach of 'cellular' automaton* at the *Conference on Complex Systems (CCS)-2022*, Palma De Mallorca, Spain in October 2022
 - Presented a talk titled *Multiscale information procesing model of the dormant aspen bud* at the HFSP annual meeting at Bordeaux, France in June 2022
-- Participant in *Infinite turtles or Ground truth*, a workshop organized by the Beyond center for the fundamental concepts in science, ASU in May 2022
-- Participant in *Beyond COVID-19*, a workshop organized by the Beyond center for the fundamental concepts in science, ASU in May 2020
+- Participant in *Infinite turtles or Ground truth*, a workshop organized by the Beyond center for the fundamental concepts in science, ASU, Tempe, USA in May 2022
+- Participant in *Beyond COVID-19*, a workshop organized by the Beyond center for the fundamental concepts in science, ASU, Tempe, USA in May 2020
 - Mind and Machines- debates on the nature of intelligence from interdisciplinary perspective at National Institute of Advanced Studies (NIAS), IISc, Bangalore, India in December 2017
 - National Science Camp (VIJYOSHI), KVPY At Indian Institute of Science (IISc), Bangalore, India in the summer of 2014
 
 
 ## Skills, Languages 
-- **Software, Programming languages:** Python *(networkx, MESA, pandas, PyInform, scikit-learn, scipy, numpy)*, Wolfram Mathematica, LaTex, netlogo, Zettlekasten platforms *(Obsidian and LogSeq)*, Venism, MS Office
+- **Software, Programming languages:** Python (*networkx, MESA, pandas, PyInform, scikit-learn, scipy, numpy*), Wolfram Mathematica, LaTex, Netlogo, Digital Zettlekasten (*Obsidian and Tana*), Venism, MS Office, Mindmaps.
 - Natural languages: Marathi (mother tongue), Hindi, English; fluent in all three.
 
 
