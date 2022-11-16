@@ -45,6 +45,8 @@ The original article can be accessed [here](https://nirman.mkcl.org/user/pages/d
 
 
 ## Workshops/ Conferences
+- Presented a talk titled *Uncovering the operating system of trees using the approach of 'cellular' automaton* at the *Conference on Complex Systems (CCS)-2022*, Palma De Mallorca, Spain in October 2022
+- Presented a talk titled *Multiscale information procesing model of the dormant aspen bud* at the HFSP annual meeting at Bordeaux, France in June 2022
 - Participant in *Infinite turtles or Ground truth*, a workshop organized by the Beyond center for the fundamental concepts in science, ASU in May 2022
 - Participant in *Beyond COVID-19*, a workshop organized by the Beyond center for the fundamental concepts in science, ASU in May 2020
 - Mind and Machines- debates on the nature of intelligence from interdisciplinary perspective at National Institute of Advanced Studies (NIAS), IISc, Bangalore, India in December 2017
