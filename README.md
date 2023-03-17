@@ -10,7 +10,7 @@
 - Location: Tempe, USA and Nagpur, IN
 
 
-Doctoral student in the department of Physics and the beyond center at Arizona State University, USA. I am working in the [research group](http://emergence.asu.edu/) of Prof Sara Walker on the broad topics realted to *physcis of life, evolution of complex systems and collective computation in plants.* Along with that, my other areas of interests are *origins of life, understanding adaptation in complex adaptive systems.*
+Doctoral student in the department of Physics and the beyond center at Arizona State University, USA. I am working in the [research group](http://emergence.asu.edu/) of Prof Sara Walker on the broad topics realted to *physics of life, evolution of complex systems and collective computation in plants.* Along with that, my other areas of interests are *origins of life, understanding adaptation in complex adaptive systems.*
 
 ## Education
 #### Physics PhD (ongoing)
@@ -25,6 +25,10 @@ Indian Institute of Science Education and Research (IISER) | 2013-2018 | Pune, M
 ## Publications, Thesis, articles
 
 #### Journal articles:
+[In preparation, submitted]
+- George Bassel; Gwendolyn V. Davis; Tatiana de Souza Moraes; Swanand Khanapurkar; Hannah Dromiack; Zaki Ahmad; Emmanuelle Bayer; Rishi Bhalerao; Sara I. Walker, Towards uncovering an operating system in plant organs, Trends in Plant Science  (2023)
+
+[Published]
 - Swanand Khanapurkar, Abhinav Varma, Nehal Mittal, Navya Gupta and T. P. Singh, Einstein-Cartan-Dirac equations in the Newman-Penrose formalism, Phys.Rev. D98 (2018) no.6, 064046.  
 DOI: https://doi.org/10.1103/PhysRevD.98.064046
 - Swanand Khanapurkar and T. P. Singh, A duality between curvature and torsion, Int. J. Mod. Phys, Vol. 27, No. 14, 1847008 (2018). DOI: https://doi.org/10.1142/S0218271818470089
